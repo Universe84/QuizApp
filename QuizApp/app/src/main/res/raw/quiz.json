@@ -1,0 +1,54 @@
+[
+  {
+    "question" : "What is your superpower",
+    "choices" : ["Flying", "Extreme Luck", "Super Speed", "Super Strength"],
+    "answers" : [20, 80, 60, 20]
+  },
+
+  {
+    "question" : "What is your fruit",
+    "choices" : ["Mango", "Blueberry", "Banana", "Apple"]
+    "answers" : [20, 80, 60, 40]
+  },
+  {
+    "question" : "What is your tree",
+    "choices": ["Oak", "Red Wood", "Birch", "Binary"],
+    "answers" : [80, 40, 60, 20]
+  },
+  {
+    "question" : "Do you like school",
+    "choices" : ["Yes", "No"],
+    "answers" : [10 , 60]
+  },
+  {
+    "question" : "Do you like sports",
+    "choices" : ["Yes", "No"],
+    "answers" : [30, 10]
+  },
+  {
+    "question" : "Do you looove spending money",
+    "choices" : ["Yes", "No"],
+    "answers" : [50, 10]
+  },
+  {
+    "question" : "What's your subject",
+    "choices" : ["Math", "Art", "History", "Chemistry"],
+    "answers" : [10, 80, 50, 30]
+  }
+  {
+    "question" : "What is the animal of choice",
+    "choices" : ["Dog", "Cat", "Bird", "Fish"],
+    "answers" : [60, 80, 40, 20]
+  }
+  {
+    "question" : "What Streaming Service",
+    "choices" : ["Amazon Prime", "Apple TV", "Netflix", "Disney+"],
+    "answers" : [20, 40, 60, 80]
+  }
+  {
+    "question" : "What is your Star Sign",
+    "choices" : ["Leo", "Capricorn", "Scorpio", "Aquarius", "Saggitarius", "Cancer", "Gemini", "Libra", "Aries", "Libra", "Taurus", "Pisces"],
+    "answers" : [70, ]
+  }
+
+]
